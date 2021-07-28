@@ -12,8 +12,6 @@
 
 # Dark-LYNN
 
-[![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
-
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -21,7 +19,6 @@
 
 ### Code languages:
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
-
 
 <!--
 **Dark-LYNN/Dark-LYNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +36,5 @@ Here are some ideas to get you started:
 -->
 
 [![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/Dark-LYNN)
+
+[![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
