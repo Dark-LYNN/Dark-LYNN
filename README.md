@@ -11,7 +11,7 @@
 -->
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Dark-LYNN/Dark-LYNN)
+[![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/github-profile-trophy)
 
 
 # Dark-LYNN
