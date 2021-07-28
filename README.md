@@ -10,7 +10,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Maintaner](https://img.shields.io/badge/maintainer-Dark-LYNN-red)
+[![Maintaner](https://img.shields.io/badge/maintainer-Dark-LYNN-red)]
 
 # Dark-LYNN
 
