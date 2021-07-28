@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 [![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/Dark-LYNN)
 
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
+
+### Other Links:
+[![https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]
