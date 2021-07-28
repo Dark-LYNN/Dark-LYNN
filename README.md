@@ -57,12 +57,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="(https://github-readme-stats.vercel.app/">
-    <img src="api/top-langs?username=Dark-LYNN&theme=blue-green" alt="Logo" width="80" height="80">
-  </a>
-<\p>
-
 [![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/Dark-LYNN)
 
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
