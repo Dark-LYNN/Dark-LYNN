@@ -19,7 +19,7 @@
   <h3 align="center">Dark-LYNN</h3>
 
   <p align="center">
-    Welcome to my awsome github projects!
+    Welcome to my awsome github page!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
