@@ -46,7 +46,7 @@
 
 ### About me:
 - 😄 Pronouns: `She/Her`
-- 📫 How to reach me: [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=[contact%20using%20github]&body=BODY)
+- 📫 How to reach me: [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=[contact%20using%20github])
 <!--
 - 🔭 I’m currently working on a [discord bot](https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2Ffe3pwwW6Q5&response_type=code&scope=guilds.join%20bot)
 - 🌱 I’m currently learning ...
