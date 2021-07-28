@@ -1,3 +1,10 @@
+<!--
+*** Thanks for checking out the Dark-LYNN's README.
+*** Here i will upload my things that actualy are about anything.
+*** Thanks again!
+-->
+# Dark-LYNN
+
 ### Hi there 👋
 
 <!--
