@@ -58,11 +58,8 @@
 -->
 
 <p align="center">
-  <a href="(https://github-readme-stats.vercel.app/api/top-langs">
-    <img src="?username=Dark-LYNN&theme=blue-green">
+  <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green">
   </a>
-
-  <h3 align="center">Dark-LYNN</h3>
 <\p>
 
 [![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/Dark-LYNN)
