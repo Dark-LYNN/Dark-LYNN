@@ -15,7 +15,7 @@
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 
 ### Hi there 👋
