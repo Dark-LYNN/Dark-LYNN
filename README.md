@@ -24,7 +24,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Markdown</a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Markdown">Markdown</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -45,7 +45,7 @@
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### About me:
-- 😄 Pronouns: `She/Her`
+- 😄 Pronouns: `She/Her` 
 - 📫 How to reach me: [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=[contact%20using%20github])
 
 <br> </br>
