@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/github-readme-stats)
+[![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green)](https://github.com/Dark-LYNN/Dark-LYNN)
