@@ -58,7 +58,7 @@
 -->
 
 <p align="center">
-  <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=blue-green">
+  <a href="(https://github-readme-stats.vercel.app/api/top-langs?username=Dark-LYNN&theme=blue-green">
   </a>
 <\p>
 
