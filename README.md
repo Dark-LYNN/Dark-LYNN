@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### Other Links:
-[![https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dark-lynn/)
