@@ -22,6 +22,7 @@
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 <!--
 **Dark-LYNN/Dark-LYNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
