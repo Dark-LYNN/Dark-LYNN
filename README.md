@@ -32,8 +32,6 @@
   </p>
 </p>
 
-# Dark-LYNN
-
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
