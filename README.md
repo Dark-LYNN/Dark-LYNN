@@ -10,11 +10,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+# Dark-LYNN
+
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/github-profile-trophy)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
-# Dark-LYNN
 
 ### Hi there 👋
 
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Dark-LYNN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-LYNN&theme=red-green)](https://github.com/Dark-LYNN/github-readme-stats)
