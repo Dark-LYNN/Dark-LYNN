@@ -9,6 +9,6 @@
   <p align="center">
     This is a file with alot of badges you can use in your markdowns.
     <br />
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/Markdown"><strong>Go back »</strong></a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/"><strong>Go back »</strong></a>
     <br />
   </p>
