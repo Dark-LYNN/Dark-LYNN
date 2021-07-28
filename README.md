@@ -16,10 +16,10 @@
     <img src="Images/Image_1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Dark-LYNN</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Welcome to my awsome github projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
