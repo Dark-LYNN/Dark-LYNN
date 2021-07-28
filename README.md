@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/tree/main/Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
