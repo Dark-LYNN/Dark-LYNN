@@ -21,6 +21,6 @@
 
 ### Markdown Badges
 
-Number| Badge | Link
-------|-------|-----|
+NR | Badge | Link
+---|-------|-----|
 #1 | soon | soon |
