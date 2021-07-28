@@ -7,7 +7,7 @@
   <h3 align="center">Markdown</h3>
 
   <p align="center">
-    Welcome to my awsome github page!
+    This is my markdown file
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN"><strong>Go back »</strong></a>
     <br />
