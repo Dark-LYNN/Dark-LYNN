@@ -19,6 +19,7 @@
 
 ### Code languages:
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 <!--
 **Dark-LYNN/Dark-LYNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
