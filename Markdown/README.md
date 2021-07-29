@@ -227,7 +227,7 @@ public class HelloWorld {
 
 # Email
 
-<email@email.com>
+<email@email.com> <br>
 [email Me](mailto:email@email.com)
 
     <email@email.com>
