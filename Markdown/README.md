@@ -183,3 +183,9 @@ English students are sometimes taught that a paragraph should have a topic sente
 ```txt
 *italic type is a cursive font normally slant slightly to the right*
 ```
+
+#### Bold
+**bold font implies that each character was originally designed with a heavier appearance rather than created on the fly from a normal character.**
+```txt
+**bold font implies that each character was originally designed with a heavier appearance rather than created on the fly from a normal character.**
+```
