@@ -29,15 +29,20 @@
 ###### (None Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="full_One_Block.png" alt="Background 1" width="40" height="40">
+    <img src="full_One_Block.png" alt="emote 1" width="40" height="40">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="half_One_Block.png" alt="Background 1" width="40" height="40">
+    <img src="half_One_Block.png" alt="emote 2" width="40" height="40">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Empty_Full_Block.png" alt="Background 1" width="40" height="40">
+    <img src="Empty_Full_Block.png" alt="emote 3" width="40" height="40">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Spacer.png" alt="Background 1" width="40" height="40">
+    <img src="Spacer.png" alt="emote 4" width="40" height="40">
   </a>,
 </p>
 
 ## Discord Emotes:
 ###### (DMCA Protected)
+<p align="left">
+  <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Egoatx_Bling.gif" alt="DMCA Emote 1" width="40" height="40">
+  </a>
+</p>
