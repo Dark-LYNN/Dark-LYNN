@@ -43,3 +43,4 @@
 | Emoji | Markdown |  | Emoji | Markdown |
 |:---:|:---|:---:|:---:|:---|
 | :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
+| :smile: | `:smile:` | | :grin: | `:grin:` |
