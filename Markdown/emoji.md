@@ -25,3 +25,12 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ----------------------------------
+
+<br>
+
+##### Emojis to tasks & projects
+
+| Emoji | Description	| Markdown |
+|:---:|:---:|:---:|
+| :heavy_check_mark: | Check | `:heavy_check_mark:` |
+
