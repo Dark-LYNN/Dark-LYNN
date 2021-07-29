@@ -51,6 +51,6 @@
 ###### (DMCA Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="dbt.png" alt="DMCA Emote 1" width="40" height="40">
+    <img src="DBT.png" alt="DMCA Image 1" width="80" height="80">
   </a>
 </p>
