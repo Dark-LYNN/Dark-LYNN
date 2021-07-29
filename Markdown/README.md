@@ -236,3 +236,15 @@ public class HelloWorld {
 ----------------------------------
 
 # Table
+
+|Column 1|Column 2|Column 3|
+|---|---|---|
+|R1 C1 | R1 C2 | R1 C3 |
+|R2 C1 | R2 C2 | R2 C3 |
+|R3 C1 | R3 C2 | R3 C3 |
+
+>\|Column 1|Column 2|Column 3|<br>
+>\|---|---|---|<br>
+>\|R1 C1 | R1 C2 | R1 C3 |<br>
+>\|R2 C1 | R2 C2 | R2 C3 |<br>
+>\|R3 C1 | R3 C2 | R3 C3 |<BR>
