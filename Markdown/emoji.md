@@ -40,8 +40,8 @@
 <br> 
 
 ### People
-| Emoji | Markdown |  | Emoji | Markdown |
-|:---:|:---|:---:|:---:|:---|
+| Emoji | Markdown |  | Emoji | Markdown |  | Emoji | Markdown |
+|:---:|:---|:---:|:---:|:---|:---:|:---:|:---|
 | :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
 | :smile: | `:smile:` | | :grin: | `:grin:` |
 | :laughing: | `:laughing:` | | 😅 | `:sweat_smile:` |
