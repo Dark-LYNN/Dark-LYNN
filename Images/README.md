@@ -5,7 +5,7 @@
     <img src="Image_1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Dark-LYNN</h3>
+  <h3 align="center">Dark-LYNN · Images</h3>
 
   <p align="center">
     Welcome to my awsome github page!
