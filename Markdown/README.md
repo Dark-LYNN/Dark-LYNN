@@ -47,7 +47,7 @@
   * [Align Left](#Align-Left)
   * [Align Right](#Align-Right)
 * [Escape Characters](#Escape-Characters)
-* Emoji
+* [Emoji](#Emoji)
 * Shields Badges
 
 ----------------------------------
@@ -323,3 +323,13 @@ _   underscore
 .   dot
 !   exclamation mark
 ```
+
+----------------------------------
+
+# Emoji
+* [Emoji](emoji.md#emoji);
+	* [People](emoji.md#people) - (:blush: ; :hushed: ; :shit:);
+	* [Nature](emoji.md#nature) - (:sunny: ; :snowman: ; :dog:);
+	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
+	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
+	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
