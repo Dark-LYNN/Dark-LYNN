@@ -26,6 +26,7 @@
 [![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SBj5WzeVBj)
 
 ## Discord Emotes:
+###### (None Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
     <img src="full_One_Block.png" alt="Background 1" width="40" height="40">
@@ -37,3 +38,6 @@
     <img src="Spacer.png" alt="Background 1" width="40" height="40">
   </a>,
 </p>
+
+## Discord Emotes:
+###### (DMCA Protected)
