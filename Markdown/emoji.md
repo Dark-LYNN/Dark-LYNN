@@ -33,4 +33,6 @@
 | Emoji | Description	| Markdown |
 |:---:|:---:|:---:|
 | :heavy_check_mark: | Check | `:heavy_check_mark:` |
-
+| :x: | Error | `:x:` |
+| :heavy_exclamation_mark: | Exclamation | `:heavy_exclamation_mark:` |
+| :warning: | warning | `:warning:` |
