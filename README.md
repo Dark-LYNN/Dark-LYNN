@@ -26,7 +26,7 @@
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Markdown">Markdown</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://discord.gg/SBj5WzeVBj/">Discord</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
