@@ -44,4 +44,6 @@
 |:---:|:---|:---:|:---:|:---|
 | :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
 | :smile: | `:smile:` | | :grin: | `:grin:` |
-| :laughing: | `:laughing:` | | 😅 | `😅` |
+| :laughing: | `:laughing:` | | 😅 | `:sweat_smile:` |
+| :joy: | `:joy:` | | :rofl: | `:rofl:` |
+| :relaxed: | `:relaxed:` | | :blush: | `:blush:` |
