@@ -30,7 +30,7 @@
 * [Titles](#Titles)
 * [Paragraph](#Paragraph)
 * [List](#List)
-  * List CheckBox
+  * [List CheckBox](#List-CheckBox)
 * Link
   * Anchor links
 * Blockquote
