@@ -119,7 +119,7 @@ English students are sometimes taught that a paragraph should have a topic sente
 
 ```txt
 - [ ] Make new friends
-- [x] Go tow work
+- [x] Go to work
 - [x] Go to school
 - [ ] Stop being bored
 ```
