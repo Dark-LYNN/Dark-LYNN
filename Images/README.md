@@ -54,3 +54,11 @@
     <img src="DBT.png" alt="DMCA Image 1" width="80" height="80">
   </a>
 </p>
+
+## Instagram themplates:
+###### (DMCA Protected)
+<p align="left">
+  <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Twitch-Icon.png" alt="DMCA Image 1" width="80" height="80">
+  </a>
+</p>
