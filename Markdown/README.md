@@ -110,3 +110,16 @@ English students are sometimes taught that a paragraph should have a topic sente
   * Item 5.2
     * Item 5.2.1
 ```
+
+## List CheckBox
+[ ] Make new friends
+[x] Go tow work
+[x] Go to school
+[ ] Stop being bored
+
+```txt
+[ ] Make new friends
+[x] Go tow work
+[x] Go to school
+[ ] Stop being bored
+```
