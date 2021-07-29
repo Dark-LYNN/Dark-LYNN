@@ -46,3 +46,11 @@
     <img src="Egoatx_Bling.gif" alt="DMCA Emote 1" width="40" height="40">
   </a>
 </p>
+
+## PFP's :
+###### (DMCA Protected)
+<p align="left">
+  <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="dbt.png" alt="DMCA Emote 1" width="40" height="40">
+  </a>
+</p>
