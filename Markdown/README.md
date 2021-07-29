@@ -26,10 +26,10 @@
 
 ----------------------------------
 
-* [Start](#markdown)
-* [Titles](#titles)
-* Paragraph
-* List
+* [Start](#Markdown)
+* [Titles](#Titles)
+* [Paragraph](#Paragraph)
+* [List](#List)
   * List CheckBox
 * Link
   * Anchor links
