@@ -66,3 +66,9 @@
     <img src="Discord%20Icon.png" alt="DMCA Image 1" width="200" height="200">
   </a>,
 </p>
+<br>
+<p align="left">
+  <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Swipe%20Up%20%7BSoon%7D.png" alt="DMCA Image 1" width="100" height="178">
+  </a>
+</p>
