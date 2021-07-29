@@ -84,4 +84,7 @@
 | 🙌 | `:raised_hands:` | | 👏 | `:clap:` | | 🤝 | `:handshake:` |
 | 👍 | `:thumbsup:` | | 👎 | `:thumbsdown:` | | 👊 | `:punch:` |
 | ✊ | `:fist:` | | 🤛 | `:fist_left:` | | 🤜 | `:fist_right:` |
-| 🤞 | `:crossed_fingers:` | | :v: | `:v:` | | 🤟 | `:love_you_gesture:` | 
+| 🤞 | `:crossed_fingers:` | | ✌️ | `:v:` | | 🤟 | `:love_you_gesture:` | 
+| 🤘 | `:metal:` | | 👌 | `:ok_hand:` | | 🤏 | `:pinching_hand:` | 
+| 🤌 | `:pinched_fingers:` | | 👈 | `:point_left:` | | 👉 | `:point_right:` |
+| ☝️ | `:point_up:` | | 👇 | `:point_down:` | | 👆 | `:point_up_2:` | 
