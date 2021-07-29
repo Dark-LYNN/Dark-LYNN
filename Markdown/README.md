@@ -48,7 +48,7 @@
   * [Align Right](#Align-Right)
 * [Escape Characters](#Escape-Characters)
 * [Emoji](#Emoji)
-* Shields Badges
+* [Badges](#Badges)
 
 ----------------------------------
  
@@ -333,3 +333,8 @@ _   underscore
 	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
 	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
 	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
+
+----------------------------------
+
+# Badges
+
