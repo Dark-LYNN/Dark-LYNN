@@ -50,3 +50,5 @@
 | :heart_eyes: | `:heart_eyes:` | | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | | :kissing_heart: | `:kissing_heart:` |
 | :kissing: | `:kissing:` | | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | | :kissing_closed_eyes: | `:kissing_closed_eyes:` |
 | :yum: | `:yum:` | | :stuck_out_tongue: | `:stuck_out_tongue:` | | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
+| :zany_face: | `:zany_face:` | | :raised_eyebrow: | `:raised_eyebrow:` | | :monocle_face: | `:monocle_face:` |
+| :nerd_face: | `:nerd_face:` | | :sunglasses: | `:sunglasses:`| | :star_struck: | `:star_struck:` | 
