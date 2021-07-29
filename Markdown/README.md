@@ -37,8 +37,8 @@
 * [Image | GIF](#Images-And-Gifs)
 * [styles](#styles)
   * [Italic](#Italic)
-  * Bold
-  * Strikethrough
+  * [Bold](#Bold)
+  * [Strikethrough](#Strikethrough)
   * Code
 * Email
 * Table
@@ -188,4 +188,10 @@ English students are sometimes taught that a paragraph should have a topic sente
 **bold font implies that each character was originally designed with a heavier appearance rather than created on the fly from a normal character.**
 ```txt
 **bold font implies that each character was originally designed with a heavier appearance rather than created on the fly from a normal character.**
+```
+
+#### Strikethrough
+~~Strikethrough is a font effect that causes text to appear as though it is crossed out.~~
+```txt
+~~Strikethrough is a font effect that causes text to appear as though it is crossed out.~~
 ```
