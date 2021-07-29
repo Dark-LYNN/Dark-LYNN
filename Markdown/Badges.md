@@ -11,7 +11,7 @@
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/"><strong>Go back »</strong></a>
     <br />
-    Contact me if you have suggestions for other once
+    [Contact me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=%5Bcontact%20using%20github%5D) if you have suggestions for other once
   </p>
 
   [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
