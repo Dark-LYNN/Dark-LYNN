@@ -55,7 +55,6 @@
  </br>
  
 # Titles
-----------------------------------
 
 # Title 1 
 ## Title 2
@@ -70,6 +69,8 @@
     #### Title 4
     ##### Title 5
     ###### Title 6    
+    
+----------------------------------
 
 # Paragraph
 The crafting of clear, coherent paragraphs is the subject of considerable stylistic debate. The form varies among different types of writing. For example, newspapers, scientific journals, and fictional essays have somewhat different conventions for the placement of paragraph breaks.
@@ -81,3 +82,18 @@ English students are sometimes taught that a paragraph should have a topic sente
     The crafting of clear, coherent paragraphs is the subject of considerable stylistic debate. The form varies among different types of writing. For example, newspapers, scientific journals, and fictional essays have somewhat different conventions for the placement of paragraph breaks. 
     
     A common English usage misconception is that a paragraph has three to five sentences; single-word paragraphs can be seen in some professional writing, and journalists often use single-sentence paragraphs.[1].
+
+----------------------------------
+
+# List
+
+* Item 1
+* Item 2
+  * Item 2.1
+  * Item 2.2 
+* Item 3
+* Item 4
+* Item 5
+  * Item 5.1
+  * Item 5.2
+    * Item 5.2.1
