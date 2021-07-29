@@ -11,7 +11,7 @@
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/"><strong>Go back »</strong></a>
     <br />
-    
+    Contact me if you have suggestions for other once
   </p>
 
   [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
@@ -44,3 +44,4 @@ NR | Badge | Link
 #6 | [![Redit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white` |
 #7 | [![Redit](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white` |
 #8 | [![Redit](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white` |
+#9 | [![Redit](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white` |
