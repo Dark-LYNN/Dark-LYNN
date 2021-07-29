@@ -64,3 +64,17 @@
 | 😨 | `:fearful:` | | 😰 | `:cold_sweat:` | | 😥 | `:disappointed_relieved:` |
 | 😓 | `:sweat:` | | 🤗 | `:hugs:` | | 🤔 | `:thinking:` |
 | 🤭 | `:hand_over_mouth:` | | 🥱 | `:yawning_face:` | | 🤫 | `:shushing_face:` |
+| 🤥 | `:lying_face:` | | 😶 | `:no_mouth:` | | 😐 | `:neutral_face:` |
+| 😑 | `:expressionless:` | | 😬 | `:grimacing:` | | 🙄 | `:roll_eyes:` |
+| 😯 | `:hushed:` | | 😦 | `:frowning:` | | 😧 | `:anguished:` | 
+| 😮 | `:open_mouth:` | | 😲 | `:astonished:` | | 😴 | `:sleeping:` | 
+| 🤤 | `:drooling_face:` | | 😪 | `:sleepy:` | | 😵 | `:dizzy_face:` |
+| 😵‍💫 | `:face_with_spiral_eyes:` | | 🤐 | `:zipper_mouth_face:` | | 🥴 | `:woozy_face:` |
+| 🤢 | `:nauseated_face:` | | 🤮 | `:vomiting_face:` | | 🤧 | `:sneezing_face:` |
+| 😷 | `:mask:` | | 🤒 | `:face_with_thermometer:` | | 🤕 | `:face_with_head_bandage:` | 
+| 🤑 | `:money_mouth_face:` | | 🤠 | `:cowboy_hat_face:` | | 🥸 | `:disguised_face:` | 
+| 😈 | `:smiling_imp:` | | 👿 | `:imp:` | | 👹 | `:japanese_ogre:` | 
+| 👺 | `:japanese_goblin:` | | 🤡 | `:clown_face:` | | 💩 | `:poop:` |
+| 👻 | `:ghost:` | | 💀 | `:skull:` | | ☠️ `:skull_and_crossbones:` |
+| 👽 | `:alien:` | | 👾 | `:space_invader:` | | 🤖 | `:robot:` |
+| 🎃 | `:jack_o_lantern:` | | 😺 | `:smiley_cat:` | | 😸 | `:smile_Cat:` | 
