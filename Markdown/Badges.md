@@ -37,3 +37,4 @@ NR | Badge | Link
 NR | Badge | Link
 ---|-------|-----|
 #1 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white` |
+#2 | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white` |
