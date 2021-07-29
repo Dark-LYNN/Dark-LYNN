@@ -45,7 +45,7 @@
   * [Table Align](#Table-Align)
   * [Align Center](#Align-Center)
   * [Align Left](#Align-Left)
-  * Align Right
+  * [Align Right](Align-Right)
 * Escape Characters
 * Emoji
 * Shields Badges
@@ -282,6 +282,23 @@ public class HelloWorld {
 ```txt
 |Column 1|Column 2|Column 3|
 |:---|:---|:---|
+|R1 C1 | R1 C2 | R1 C3 |
+|R2 C1 | R2 C2 | R2 C3 |
+|R3 C1 | R3 C2 | R3 C3 |
+```
+<br>
+
+### Align Right
+
+|Column 1|Column 2|Column 3|
+|---:|---:|---:|
+|R1 C1 | R1 C2 | R1 C3 |
+|R2 C1 | R2 C2 | R2 C3 |
+|R3 C1 | R3 C2 | R3 C3 |
+
+```txt
+|Column 1|Column 2|Column 3|
+|---:|---:|---:|
 |R1 C1 | R1 C2 | R1 C3 |
 |R2 C1 | R2 C2 | R2 C3 |
 |R3 C1 | R3 C2 | R3 C3 |
