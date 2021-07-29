@@ -78,3 +78,10 @@
 | 👻 | `:ghost:` | | 💀 | `:skull:` | | ☠️ | `:skull_and_crossbones:` |
 | 👽 | `:alien:` | | 👾 | `:space_invader:` | | 🤖 | `:robot:` |
 | 🎃 | `:jack_o_lantern:` | | 😺 | `:smiley_cat:` | | 😸 | `:smile_Cat:` | 
+| 😹 | `:joy_cat:` | | 😻 | `:heart_eyes_cat:` | | 😼 | `:smirk_cat:` | 
+| 😽 | `:kissing_cat:` | | 🙀 | `:scream_cat:` | | 😿 | `:crying_cat_face:` | 
+| 😾 | `:pouting_cat:` | | 🤲 | `:palms_up_together:` | | 👐 | `:open_hands:` |
+| 🙌 | `:raised_hands:` | | 👏 | `:clap:` | | 🤝 | `:handshake:` |
+| 👍 | `:thumbsup:` | | 👎 | `:thumbsdown:` | | 👊 | `:punch:` |
+| ✊ | `:fist:` | | 🤛 | `:fist_left:` | | 🤜 | `:fist_right:` |
+| 🤞 | `:crossed_fingers:` | | :v: | `:v:` | | 🤟 | `:love_you_gesture:` | 
