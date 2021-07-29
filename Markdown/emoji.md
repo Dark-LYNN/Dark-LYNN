@@ -57,4 +57,4 @@
 | 😕 | `:confused:` | | 🙁 | `:slightly_frowning_face:` | | 😦 | `:frowning:` |
 | 😣 | `:persevere:` | | 😖 | `:confounded:`| | 😫 | `:tired_face:` |
 | 😩 | `:weary:` | | 🥺 | `:pleading_face:` | | 😢 | `:cry:` | 
-| 😭 | `:sob:` | | 😤 | `:triumph:` | | :face_exhalling: | `:face_exhalling:` | 
+| 😭 | `:sob:` | | 😤 | `:triumph:` | | :face_exhaling: | `:face_exhaling:` | 
