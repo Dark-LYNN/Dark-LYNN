@@ -26,4 +26,4 @@
 [![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SBj5WzeVBj)
 
 ## Mee6 Level Background:
-[![Image One](https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/Level_BackGround.png)](https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images)
+![Image One](https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/Level_BackGround.png)
