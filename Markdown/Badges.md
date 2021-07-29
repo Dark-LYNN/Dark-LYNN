@@ -19,7 +19,7 @@
   [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
   [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<br> </br>
+<br />
 
 ## Contact
 
@@ -33,6 +33,8 @@ NR | Badge | Link
 #6 | [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white` |
 #7 | [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white` |
 #### Usage: `[![Name](Link)](Redirect_Link)`
+
+<br />
 
 ## Social
 
@@ -48,3 +50,5 @@ NR | Badge | Link
 #8 | [![Redit](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white` |
 #9 | [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white` |
 #### Usage: `[![Name](Link)](Redirect_Link)`
+
+<br />
