@@ -7,7 +7,6 @@
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- PROJECT LOGO -->
 <br />
