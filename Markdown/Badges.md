@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/Markdown">
-    <img src=".Image.png" alt="Logo" width="80" height="80">
+    <img src=".Image.png" alt="Logo" width="300" height="185">
   </a>
 
   <h3 align="center">Markdown</h3>
