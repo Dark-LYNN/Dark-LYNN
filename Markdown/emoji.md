@@ -48,3 +48,5 @@
 | :joy: | `:joy:` | | :rofl: | `:rofl:` | | :wink: | `:wink:` |
 | :relaxed: | `:relaxed:` | | :blush: | `:blush:` | | :smiling_face_with_tear: | `:smiling_face_with_tear:` |
 | :heart_eyes: | `:heart_eyes:` | | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | | :kissing_heart: | `:kissing_heart:` |
+| :kissing: | `:kissing:` | | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | | :kissing_closed_eyes: | `:kissing_closed_eyes:` |
+| :yum: | `:yum:` | | :stuck_out_tongue: | `:stuck_out_tongue:` | | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
