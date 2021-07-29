@@ -41,9 +41,9 @@
   * [Strikethrough](#Strikethrough)
   * [Code](#Code)
 * [Email](#email)
-* Table
-  * Table Align
-  * Align Center
+* [Table](#table)
+  * [Table Align](#Table-Align)
+  * [Align Center](#Align-Center)
   * Align Left
   * Align Right
 * Escape Characters
@@ -237,6 +237,8 @@ public class HelloWorld {
 
 # Table
 
+### Table Align
+
 |Column 1|Column 2|Column 3|
 |---|---|---|
 |R1 C1 | R1 C2 | R1 C3 |
@@ -248,3 +250,17 @@ public class HelloWorld {
 >\|R1 C1 | R1 C2 | R1 C3 |<br>
 >\|R2 C1 | R2 C2 | R2 C3 |<br>
 >\|R3 C1 | R3 C2 | R3 C3 |<BR>
+<br>
+### Align Center
+  |Column 1|Column 2|Column 3|
+|:---:|:---:|:---:|
+|R1 C1 | R1 C2 | R1 C3 |
+|R2 C1 | R2 C2 | R2 C3 |
+|R3 C1 | R3 C2 | R3 C3 |
+
+>\|Column 1|Column 2|Column 3|<br>
+>\|:---:|:---:|:---:|<br>
+>\|R1 C1 | R1 C2 | R1 C3 |<br>
+>\|R2 C1 | R2 C2 | R2 C3 |<br>
+>\|R3 C1 | R3 C2 | R3 C3 |<BR>
+<br>
