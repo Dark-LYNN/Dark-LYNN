@@ -65,7 +65,7 @@
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
     <img src="Discord%20Icon.png" alt="DMCA Image" width="100" height="100">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Twitter%20Icon.png" alt="DMCA Image" width="100" height="100">
+    <img src="twitter%20Icon.png" alt="DMCA Image" width="100" height="100">
   </a>,
 </p>
 <br>
