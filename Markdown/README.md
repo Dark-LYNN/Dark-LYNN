@@ -75,9 +75,9 @@
 # Paragraph
 The crafting of clear, coherent paragraphs is the subject of considerable stylistic debate. The form varies among different types of writing. For example, newspapers, scientific journals, and fictional essays have somewhat different conventions for the placement of paragraph breaks.
 
-A common English usage misconception is that a paragraph has three to five sentences; single-word paragraphs can be seen in some professional writing, and journalists often use single-sentence paragraphs.[1]
+A common English usage misconception is that a paragraph has three to five sentences; single-word paragraphs can be seen in some professional writing, and journalists often use single-sentence paragraphs.
 
-English students are sometimes taught that a paragraph should have a topic sentence or "main idea", preferably first, and multiple "supporting" or "detail" sentences that explain or supply evidence. One technique of this type, intended for essay writing, is known as the Schaffer paragraph. This advice differs from stock advice for the construction of paragraphs in Japanese (translated as danraku 段落).[8]
+English students are sometimes taught that a paragraph should have a topic sentence or "main idea", preferably first, and multiple "supporting" or "detail" sentences that explain or supply evidence. One technique of this type, intended for essay writing, is known as the Schaffer paragraph. This advice differs from stock advice for the construction of paragraphs in Japanese (translated as danraku 段落).
 
     The crafting of clear, coherent paragraphs is the subject of considerable stylistic debate. The form varies among different types of writing. For example, newspapers, scientific journals, and fictional essays have somewhat different conventions for the placement of paragraph breaks. 
     
