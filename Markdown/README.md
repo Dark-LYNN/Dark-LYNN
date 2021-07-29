@@ -112,14 +112,14 @@ English students are sometimes taught that a paragraph should have a topic sente
 ```
 
 ## List CheckBox
-[ ] Make new friends
-[x] Go tow work
-[x] Go to school
-[ ] Stop being bored
+- [ ] Make new friends
+- [x] Go tow work
+- [x] Go to school
+- [ ] Stop being bored
 
 ```txt
-[ ] Make new friends
-[x] Go tow work
-[x] Go to school
-[ ] Stop being bored
+- [ ] Make new friends
+- [x] Go tow work
+- [x] Go to school
+- [ ] Stop being bored
 ```
