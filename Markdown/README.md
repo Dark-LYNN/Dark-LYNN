@@ -210,17 +210,15 @@ public class HelloWorld {
     }}}
 ```
 
-```txt
-\```java
- import java.util.Scanner; 
-
- public class HelloWorld {
- //This is just am example of what a java code looks like
-     public static void main(String[] args) {
-        Scanner reader = new Scanner(System.in);
-        System.out.print("Enter a number: ");
-        int number = reader.nextInt();
-        System.out.println("You entered: " + number);
-    }}}
-\```
-```
+> \`\`\`java <br>
+> import java.util.Scanner; <br>
+> <br>
+> public class HelloWorld { <br>
+> //This is just am example of what a java code looks like <br>
+>     public static void main(String[] args) { <br>
+>        Scanner reader = new Scanner(System.in); <br>
+>        System.out.print("Enter a number: "); <br>
+>        int number = reader.nextInt(); <br>
+>        System.out.println("You entered: " + number); <br>
+>    }}} <br>
+> \`\`\` <br>
