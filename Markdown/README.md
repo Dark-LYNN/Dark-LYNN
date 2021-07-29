@@ -35,8 +35,8 @@
   * [Anchor links](#anchor-links)
 * [Blockquote](#Blockquote)
 * [Image | GIF](#Images-And-Gifs)
-* styles
-  * Italic
+* [styles](#styles)
+  * [Italic](#Italic)
   * Bold
   * Strikethrough
   * Code
@@ -173,3 +173,10 @@ English students are sometimes taught that a paragraph should have a topic sente
 ```txt
 ![myImage](https://media.giphy.com/media/tuxc9Th08v4Uo/giphy.gif)
 ```
+
+----------------------------------
+
+# styles
+
+#### Italic
+*italic type is a cursive font normally slant slightly to the right*
