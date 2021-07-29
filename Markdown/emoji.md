@@ -52,3 +52,9 @@
 | :yum: | `:yum:` | | :stuck_out_tongue: | `:stuck_out_tongue:` | | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
 | :zany_face: | `:zany_face:` | | :raised_eyebrow: | `:raised_eyebrow:` | | :monocle_face: | `:monocle_face:` |
 | :nerd_face: | `:nerd_face:` | | :sunglasses: | `:sunglasses:`| | :star_struck: | `:star_struck:` | 
+| :partying_face: | `:partying_face:` | | :smirk: | `:smirk:` | | :unamused: | `:unamused:` | 
+| :disappointed: | `:disappointed:` | | :pensive: | `:pensive:` | | :worried: | `:worried:` |
+| 😕 | `:confused:` | | 🙁 | `:slightly_frowning_face:` | | 😦 | `:frowning:` |
+| 😣 | `:persevere:` | | 😖 | `:confounded:`| | 😫 | `:tired_face:` |
+| 😩 | `:weary:` | | 🥺 | `:pleading_face:` | | 😢 | `:cry:` | 
+| 😭 | `:sob:` | | 😤 | `:triumph:` | | :face_exhalling: | `:face_exhalling:` | 
