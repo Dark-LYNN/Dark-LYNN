@@ -43,7 +43,7 @@
 ###### (DMCA Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Egoatx_Bling.gif" alt="DMCA Emote 1" width="40" height="40">
+    <img src="Egoatx_Bling.gif" alt="DMCA Emote" width="40" height="40">
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 ###### (DMCA Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="DBT.png" alt="DMCA Image 1" width="80" height="80">
+    <img src="DBT.png" alt="DMCA Image" width="80" height="80">
   </a>
 </p>
 
@@ -59,16 +59,18 @@
 ###### (DMCA Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Twitch%20Icon.png" alt="DMCA Image 1" width="200" height="200">
+    <img src="Twitch%20Icon.png" alt="DMCA Image" width="200" height="200">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Youtube%20Icon.png" alt="DMCA Image 1" width="200" height="200">
+    <img src="Youtube%20Icon.png" alt="DMCA Image" width="200" height="200">
   </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Discord%20Icon.png" alt="DMCA Image 1" width="200" height="200">
+    <img src="Discord%20Icon.png" alt="DMCA Image" width="200" height="200">
+  </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Twitter%29Icon.png" alt="DMCA Image" width="200" height="200">
   </a>,
 </p>
 <br>
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Swipe%20Up%20%7BSoon%7D.png" alt="DMCA Image 1" width="100" height="178">
+    <img src="Swipe%20Up%20%7BSoon%7D.png" alt="DMCA Image" width="100" height="178">
   </a>
 </p>
