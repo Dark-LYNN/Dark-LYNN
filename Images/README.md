@@ -59,6 +59,10 @@
 ###### (DMCA Protected)
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Twitch-Icon.png" alt="DMCA Image 1" width="80" height="80">
-  </a>
+    <img src="Twitch%20Icon.png" alt="DMCA Image 1" width="200" height="200">
+  </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Youtube%29Icon.png" alt="DMCA Image 1" width="200" height="200">
+  </a>,<a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="Youtube%29Icon.png" alt="DMCA Image 1" width="200" height="200">
+  </a>,
 </p>
