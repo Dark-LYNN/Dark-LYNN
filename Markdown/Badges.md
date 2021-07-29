@@ -13,7 +13,7 @@
     <br />
   </p>
   
-[Email me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=[contact%20using%20github]) if you have suggestions for other once
+[Email me](https://mail.google.com/mail/?view=cm&fs=1&to=botdevlynn@gmail.com&su=[contact%20using%20github]) if you have suggestions for other badges.
 
   [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
   [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
