@@ -34,7 +34,7 @@
 * [Link](#link)
   * [Anchor links](#anchor-links)
 * [Blockquote](#Blockquote)
-* Image | GIF
+* [Image | GIF](#Images-And-Gifs)
 * styles
   * Italic
   * Bold
@@ -162,4 +162,14 @@ English students are sometimes taught that a paragraph should have a topic sente
 
 ```txt
 > This is a blockquote
+```
+
+----------------------------------
+
+# Images And Gifs
+
+![myImage](https://media.giphy.com/media/tuxc9Th08v4Uo/giphy.gif)
+
+```txt
+![myImage](https://media.giphy.com/media/tuxc9Th08v4Uo/giphy.gif)
 ```
