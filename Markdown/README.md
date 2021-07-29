@@ -123,3 +123,9 @@ English students are sometimes taught that a paragraph should have a topic sente
 - [x] Go to school
 - [ ] Stop being bored
 ```
+
+----------------------------------
+
+# Link
+
+[Google](https://www.google.com) - _google is an American multinational technology company that specializes in Internet-related services and products._
