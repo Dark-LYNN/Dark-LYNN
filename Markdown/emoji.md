@@ -42,8 +42,8 @@
 ### People
 | Emoji | Markdown |  | Emoji | Markdown |  | Emoji | Markdown |
 |:---:|:---|:---:|:---:|:---|:---:|:---:|:---|
-| :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
-| :smile: | `:smile:` | | :grin: | `:grin:` |
-| :laughing: | `:laughing:` | | 😅 | `:sweat_smile:` |
-| :joy: | `:joy:` | | :rofl: | `:rofl:` |
-| :relaxed: | `:relaxed:` | | :blush: | `:blush:` |
+| :grinning: | `:grinning:` | | :smiley: | `:smiley:` | | :innocent: | `:innocent:` |
+| :smile: | `:smile:` | | :grin: | `:grin:` | | :slightly_smiling_face: | `:slightly_smiling_face:` |
+| :laughing: | `:laughing:` | | 😅 | `:sweat_smile:` | | :upside_down_face: | `:upside_down_face:` |
+| :joy: | `:joy:` | | :rofl: | `:rofl:` | | :wink: | `:wink:` |
+| :relaxed: | `:relaxed:` | | :blush: | `:blush:` | | :smiling_face_with_tear: | `:smiling_face_with_tear:` |
