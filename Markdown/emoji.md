@@ -44,3 +44,4 @@
 |:---:|:---|:---:|:---:|:---|
 | :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
 | :smile: | `:smile:` | | :grin: | `:grin:` |
+| :laughing: | `:laughing:` | | 😅 | `😅` |
