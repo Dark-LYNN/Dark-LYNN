@@ -40,7 +40,7 @@
   * [Bold](#Bold)
   * [Strikethrough](#Strikethrough)
   * [Code](#Code)
-* Email
+* [Email](#email)
 * Table
   * Table Align
   * Align Center
@@ -222,3 +222,11 @@ public class HelloWorld {
 >        System.out.println("You entered: " + number); <br>
 >    }}} <br>
 > \`\`\` <br>
+
+----------------------------------
+
+# Email
+
+<email@email.com>
+
+    <email@email.com>
