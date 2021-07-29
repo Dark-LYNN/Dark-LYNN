@@ -180,3 +180,6 @@ English students are sometimes taught that a paragraph should have a topic sente
 
 #### Italic
 *italic type is a cursive font normally slant slightly to the right*
+```txt
+*italic type is a cursive font normally slant slightly to the right*
+```
