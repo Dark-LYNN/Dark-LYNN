@@ -47,3 +47,4 @@
 | :laughing: | `:laughing:` | | 😅 | `:sweat_smile:` | | :upside_down_face: | `:upside_down_face:` |
 | :joy: | `:joy:` | | :rofl: | `:rofl:` | | :wink: | `:wink:` |
 | :relaxed: | `:relaxed:` | | :blush: | `:blush:` | | :smiling_face_with_tear: | `:smiling_face_with_tear:` |
+| :heart_eyes: | `:heart_eyes:` | | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | | :kissing_heart: | `:kissing_heart:` |
