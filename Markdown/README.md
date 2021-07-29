@@ -32,7 +32,7 @@
 * [List](#List)
   * [List CheckBox](#List-CheckBox)
 * [Link](#link)
-  * [Anchor links](Anchor-links)
+  * [Anchor links](#anchor-links)
 * Blockquote
 * Image | GIF
 * styles
