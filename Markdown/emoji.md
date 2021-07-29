@@ -90,7 +90,7 @@
 | ☝️ | `:point_up:` | | 👇 | `:point_down:` | | 👆 | `:point_up_2:` | 
 | ✋ | `:raised_hand:` | | 🤚 | `:raised_back_of_hand:` | | 🖐️ | `:raised_hand_with_fingers_splayed:` | 
 | 🖖 | `:vulcan_salute:` | | 👋 | `:wave:` | | 🤙 | `:call_me_hand:` |
-| 💪 | `:muscle:` | | 🦾 | `:mechanical_arm:` | 🖕 | `:middle_finger:` | 
+| 💪 | `:muscle:` | | 🦾 | `:mechanical_arm:` | | 🖕 | `:middle_finger:` | 
 | ✍️ | `:writing_hand:` | | 🙏 | `:pray:` | | 🦶 | `:foot:` |
 | 🦵 | `:leg:` | | 🦿 | `:mechanical_leg:` | | 💄 | `:lipstick:` |
 | 💋 | `:kiss:` | | 👄 | `:lips:` | | 🦷 | `:tooth:` | 
