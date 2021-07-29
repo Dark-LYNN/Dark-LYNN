@@ -75,6 +75,6 @@
 | 🤑 | `:money_mouth_face:` | | 🤠 | `:cowboy_hat_face:` | | 🥸 | `:disguised_face:` | 
 | 😈 | `:smiling_imp:` | | 👿 | `:imp:` | | 👹 | `:japanese_ogre:` | 
 | 👺 | `:japanese_goblin:` | | 🤡 | `:clown_face:` | | 💩 | `:poop:` |
-| 👻 | `:ghost:` | | 💀 | `:skull:` | | ☠️ `:skull_and_crossbones:` |
+| 👻 | `:ghost:` | | 💀 | `:skull:` | | ☠️ | `:skull_and_crossbones:` |
 | 👽 | `:alien:` | | 👾 | `:space_invader:` | | 🤖 | `:robot:` |
 | 🎃 | `:jack_o_lantern:` | | 😺 | `:smiley_cat:` | | 😸 | `:smile_Cat:` | 
