@@ -128,4 +128,8 @@ English students are sometimes taught that a paragraph should have a topic sente
 
 # Link
 
-[Google](https://www.google.com) - _google is an American multinational technology company that specializes in Internet-related services and products._
+[Google](https://www.google.com) - google is an American multinational technology company that specializes in Internet-related services and products.
+[Youtube](https://youtube.com) - Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube.
+[GitHub](https://github.com/Dark-LYNN/Dark-LYNN) - Create and share your project or just look at that from others, that works to.
+
+
