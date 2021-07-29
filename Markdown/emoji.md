@@ -28,7 +28,7 @@
 
 <br>
 
-##### Emojis to tasks & projects
+### Emojis to tasks & projects
 
 | Emoji | Description	| Markdown |
 |:---:|:---:|:---:|
@@ -36,3 +36,10 @@
 | :x: | Error | `:x:` |
 | :heavy_exclamation_mark: | Exclamation | `:heavy_exclamation_mark:` |
 | :warning: | warning | `:warning:` |
+
+<br> 
+
+### People
+| Emoji | Markdown |  | Emoji | Markdown |
+|:---:|:---|:---:|:---:|:---|
+| :grinning: | `:grinning:` | | :smiley: | `:smiley:` |
