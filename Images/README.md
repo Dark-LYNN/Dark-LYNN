@@ -30,4 +30,7 @@
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
     <img src="full_One_Block.png" alt="Background 1" width="40" height="40">
   </a>
+  <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
+    <img src="full_Halve_Block.png" alt="Background 1" width="40" height="40">
+  </a>
 </p>
