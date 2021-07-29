@@ -10,14 +10,14 @@
   <p align="center">
     Welcome to my awsome github page!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN"><strong>Go back »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Markdown">Markdown</a>
     ·
     <a href="https://discord.gg/SBj5WzeVBj/">Discord</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Images</a>
   </p>
 </p>
 
