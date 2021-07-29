@@ -45,8 +45,8 @@
   * [Table Align](#Table-Align)
   * [Align Center](#Align-Center)
   * [Align Left](#Align-Left)
-  * [Align Right](Align-Right)
-* Escape Characters
+  * [Align Right](#Align-Right)
+* [Escape Characters](#Escape-Characters)
 * Emoji
 * Shields Badges
 
@@ -304,3 +304,20 @@ public class HelloWorld {
 |R3 C1 | R3 C2 | R3 C3 |
 ```
 <br>
+----------------------------------
+# Escape Characters
+
+```
+\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark
+```
