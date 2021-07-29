@@ -30,7 +30,7 @@ NR | Badge | Link
 #4 | [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white` |
 #5 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` |
 #6 | [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white` |
-#7 | [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
+#7 | [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white` |
 
 ### Social
 
@@ -38,3 +38,4 @@ NR | Badge | Link
 ---|-------|-----|
 #1 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white` |
 #2 | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white` |
+#4 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white` |
