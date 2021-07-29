@@ -21,7 +21,7 @@
 
 <br> </br>
 
-### Contact
+## Contact
 
 NR | Badge | Link
 ---|-------|-----|
@@ -32,9 +32,9 @@ NR | Badge | Link
 #5 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` |
 #6 | [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white` |
 #7 | [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white` |
-# Usage: `[![Name](Link)](Redirect_Link)`
+#### Usage: `[![Name](Link)](Redirect_Link)`
 
-### Social
+## Social
 
 NR | Badge | Link
 ---|-------|-----|
@@ -47,4 +47,4 @@ NR | Badge | Link
 #7 | [![Redit](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white` |
 #8 | [![Redit](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white` |
 #9 | [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Markdown/Badges.md) | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white` |
-# Usage: `[![Name](Link)](Redirect_Link)`
+#### Usage: `[![Name](Link)](Redirect_Link)`
