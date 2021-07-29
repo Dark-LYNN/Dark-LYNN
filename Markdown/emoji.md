@@ -58,3 +58,9 @@
 | 😣 | `:persevere:` | | 😖 | `:confounded:`| | 😫 | `:tired_face:` |
 | 😩 | `:weary:` | | 🥺 | `:pleading_face:` | | 😢 | `:cry:` | 
 | 😭 | `:sob:` | | 😤 | `:triumph:` | | :face_exhaling: | `:face_exhaling:` | 
+| 😠 | `:angry:` | | 😡 | `:rage:` | | 🤬 | `:cursing_face:` | 
+| 🤯 | `:exploding_head:` | | 😳 | `:flushed:` | | 😶‍🌫️ | `:face_in_clouds:` | 
+| 🥵 | `:hot_face:` | | 🥶 | `:cold_face:` | | 😱 | `:scream:` | 
+| 😨 | `:fearful:` | | 😰 | `:cold_sweat:` | | 😥 | `:disappointed_relieved:` |
+| 😓 | `:sweat:` | | 🤗 | `:hugs:` | | 🤔 | `:thinking:` |
+| 🤭 | `:hand_over_mouth:` | | 🥱 | `:yawning_face:` | | 🤫 | `:shushing_face:` |
