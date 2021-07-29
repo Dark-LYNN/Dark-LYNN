@@ -28,6 +28,6 @@
 ## Mee6 Level Background:
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Images/">
-    <img src="Level_BackGround.png" alt="Background 1" width="80" height="80">
+    <img src="Level_BackGround.png" alt="Background 1" width="300" height="80">
   </a>
 </p>
