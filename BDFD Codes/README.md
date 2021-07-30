@@ -48,3 +48,10 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 | Curency |  | <:Money:870771530391511130> |
 
 ---------------------
+
+### Codes
+
+* Economy
+  * Set-Curency
+* Moderation
+* Utility
