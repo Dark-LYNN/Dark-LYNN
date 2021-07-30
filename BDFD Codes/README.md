@@ -55,3 +55,9 @@ You can see all variables and info about them in [Variables.js](Variables.js)
   * [Set-Curency](Economy/set-currency.js)
 * Moderation
 * Utility
+
+---------------------
+<br>
+### Images
+<br>
+![image](https://user-images.githubusercontent.com/65414822/127714260-bc0cb0cf-a8fe-47e5-9f71-38fa4d4c5891.png)
