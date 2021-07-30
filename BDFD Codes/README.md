@@ -69,5 +69,5 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/edit/main/BDFD%20Codes/">
-    <img src="Image/image.png" alt="Logo" width="650" height="242">
+    <img src="Image/image.png" alt="Logo" width="300" height="112">
   </a>
