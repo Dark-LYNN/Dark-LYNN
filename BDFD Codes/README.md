@@ -57,13 +57,17 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 * Utility
 
 ---------------------
+
 <br>
+
 ### Images
+
 <br>
+
 ### Economy
 ##### SetCurrency
-![image](https://user-images.githubusercontent.com/65414822/127714260-bc0cb0cf-a8fe-47e5-9f71-38fa4d4c5891.png)
-<p align="center">
+
+<p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/edit/main/BDFD%20Codes/">
     <img src="Image/image.png" alt="Logo" width="650" height="242">
   </a>
