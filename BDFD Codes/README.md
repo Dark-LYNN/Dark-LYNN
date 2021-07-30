@@ -60,7 +60,7 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 
 <br>
 
-### Images
+# Images
 
 <br>
 
