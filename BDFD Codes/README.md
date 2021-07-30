@@ -34,13 +34,13 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 ##### Main Vars
 
 | Var | Value |
-|:---:|:---:|
+|:---:|:---|
 | Color | ff7aed |
 | Prefix | ! |
 
 ##### Economy Vars
 | Var | Value |
-|:---:|:---:|
+|:---:|:---|
 | Money | 100 |
 | Bank | 0 |
 | Curency | <:Money:870771530391511130> |
