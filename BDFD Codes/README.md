@@ -65,7 +65,7 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 <br>
 
 ### Economy
-##### SetCurrency
+##### [SetCurrency](Economy/set-currency.js)
 
 <p align="left">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/edit/main/BDFD%20Codes/">
