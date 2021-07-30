@@ -65,5 +65,5 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 ![image](https://user-images.githubusercontent.com/65414822/127714260-bc0cb0cf-a8fe-47e5-9f71-38fa4d4c5891.png)
 <p align="center">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/edit/main/BDFD%20Codes/">
-    <img src="Image/127714260-bc0cb0cf-a8fe-47e5-9f71-38fa4d4c5891.png" alt="Logo" width="120" height="120">
+    <img src="Image/image.png" alt="Logo" width="650" height="242">
   </a>
