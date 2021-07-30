@@ -25,6 +25,8 @@
     <a href="https://discord.gg/SBj5WzeVBj/">Discord</a>
     ·
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images">Images</a>
+    ·
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/bdfd-codes">BDFD</a>
   </p>
 </p>
 
