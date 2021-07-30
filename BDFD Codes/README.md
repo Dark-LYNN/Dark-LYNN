@@ -7,7 +7,7 @@
   <h3 align="center">Dark-LYNN · BDFD Codes</h3>
 
   <p align="center">
-    Welcome to my awsome github page!
+    Here you can find my **Open Source** BDFD codes!
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN"><strong>Go back »</strong></a>
     <br />
