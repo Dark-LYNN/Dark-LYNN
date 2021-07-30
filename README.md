@@ -26,7 +26,7 @@
     ·
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images">Images</a>
     ·
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/bdfd%20codes">BDFD</a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/BDFD%20Codes">BDFD</a>
   </p>
 </p>
 
