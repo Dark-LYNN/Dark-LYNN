@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/edit/main/BDFD%20Codes/">
-    <img src="Images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="Image/Logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Dark-LYNN · BDFD Codes</h3>
