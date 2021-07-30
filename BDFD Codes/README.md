@@ -51,7 +51,7 @@ You can see all variables and info about them in [Variables.js](Variables.js)
 
 ### Codes
 
-* Economy
+* [Economy](Economy)
   * Set-Curency
 * Moderation
 * Utility
