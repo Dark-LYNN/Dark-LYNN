@@ -7,7 +7,7 @@
   <h3 align="center">Dark-LYNN · BDFD Codes</h3>
 
   <p align="center">
-    Here you can find my **Open Source** BDFD codes!
+    Here you can find my Open Source BDFD codes!
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN"><strong>Go back »</strong></a>
     <br />
@@ -26,3 +26,6 @@
 [![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SBj5WzeVBj)
 
 ---------------------
+
+### Variables
+You can see the variables in [Variables.js](Variables.js)
