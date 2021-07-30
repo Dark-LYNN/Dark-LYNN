@@ -2,7 +2,7 @@
 
 // Premium Version 
 
-trigger = $getServerVar[Prefix]set-currency
+trigger = $getServerVar[Prefix]setcurrency
 
 code:`
 $ignoreTriggerCase
@@ -22,7 +22,7 @@ $onlyPerms[manageserver;:x: You need manageserver permissions]
 
 // None Premium Version 
 
-trigger = !set-currency
+trigger = !setcurrency
 
 code:`
 $nomention
