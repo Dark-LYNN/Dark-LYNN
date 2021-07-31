@@ -43,8 +43,13 @@
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### About me:
-- 😄 Pronouns: `She/Her` 
-- 📫 How to reach me: [Email Me](mailto:botdevlynn@gmail.com)
+- 😸 What is my first name?: `lynn`
+- 😄 What is my pronouns?: `She/Her`
+- 🌈 What is my ordinantion?: `Bisexual`
+- 📫 How to reach me?: [Email Me](mailto:botdevlynn@gmail.com)
+- 🇧🇪  Where am i from?: `Belgium {EU}`
+- 🏳️‍🌈 What is my favorite color?: `Pink and Black` 
+- 🍕 What is my favorite food?: `🍕`
 
 <br> </br>
 
