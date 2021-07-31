@@ -41,6 +41,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### About me:
 - 😸 What is my first name?: `lynn`
