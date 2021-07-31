@@ -36,12 +36,12 @@
 [![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SBj5WzeVBj)
 
 ### Code languages:
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/search?l=html)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/search?l=css)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/)
-[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/)
-[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/search?l=javascript)
+[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Dark-LYNN/Dark-LYNN/search?l=markdown)
+[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)](https://github.com/Dark-LYNN/Dark-LYNN/search?l=python)
 
 ### About me:
 - 😸 What is my first name?: `lynn`
