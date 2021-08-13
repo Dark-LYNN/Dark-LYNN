@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://bdfd.gay/lynn/Images/Kigles.png">
-    <img src="Images/Kigles.png" alt="Avatar" width="80" height="80">
+    <img src="https://bdfd.gay/lynn/Images/Kigles.png" alt="Avatar" width="80" height="80">
   </a>
 
   <h3 align="center">Kigles</h3>
