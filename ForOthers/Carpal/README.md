@@ -7,8 +7,6 @@
   <h3 align="center">Kigles</h3>
 
   <p align="center">
-    Welcome to my awsome github page!
-    <br />
     <a href="https://discord.gg/GbpXurC3">Support Server</a>
     ·
     <a href="https://discord.com/oauth2/authorize?client_id=634554431647514635&permissions=2147839040&scope=bot/">Invite Kigles</a>
