@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/65414822/">
-    <img src="129424227-822fdde9-587e-4c5c-83ea-097bd92f34fd.png" alt="Avatar" width="80" height="80">
+  <a href="https://user-images.githubusercontent.com/">
+    <img src="65414822/129424227-822fdde9-587e-4c5c-83ea-097bd92f34fd.png" alt="Avatar" width="80" height="80">
   </a>
 
   <h3 align="center">Kigles</h3>
