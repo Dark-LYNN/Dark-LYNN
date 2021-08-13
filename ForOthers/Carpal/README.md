@@ -47,4 +47,4 @@ Commands can allow you to make certain images with custom text, Hug other users,
 !support
 
 
-[![Made with Love By Dark-LYNN](https://badges.frapsoft.com/os/v1/Made-with-love.svg?v=103)](https://github.com/Dark-LYNN/)
+[![Made with Love By Dark-LYNN](https://badges.frapsoft.com/os/v1/made-with-love.svg?v=103)](https://github.com/Dark-LYNN/)
