@@ -45,3 +45,6 @@ Commands can allow you to make certain images with custom text, Hug other users,
 !h-Utility
 
 !support
+
+
+[![Made with Love By Dark-LYNN](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Dark-LYNN/)
