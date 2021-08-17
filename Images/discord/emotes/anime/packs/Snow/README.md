@@ -18,3 +18,9 @@
 ![Snow_PikaHug.png](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images/discord/emotes/anime/packs/Snow/Snow_PikaHug.png)
 ![Snow_Sip.png](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images/discord/emotes/anime/packs/Snow/Snow_Sip.png)
 ![Snow_Sleep.png](https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images/discord/emotes/anime/packs/Snow/Snow_Sleep.png)
+
+<br>
+
+```
+❌ Note: I did not make these emotes!!!
+```
