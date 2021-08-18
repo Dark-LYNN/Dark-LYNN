@@ -24,3 +24,4 @@
 <br>
 
 # Akira Terms of Service
+### Last modified: Aug 18, 2021.
