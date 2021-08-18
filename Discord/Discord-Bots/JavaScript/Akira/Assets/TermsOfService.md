@@ -8,15 +8,13 @@
   <h3 align="center">Dark-LYNN</h3>
 
   <p align="center">
-    Welcome to my awsome github page!
+    Other usefull links
     <br />
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Markdown">Markdown</a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Discord/Discord-Bots/JavaScript/Akira/Assets/GuideLines.md">GuideLines</a>
     ·
     <a href="https://discord.gg/SBj5WzeVBj/">Discord</a>
     ·
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/blob/main/Images">Images</a>
-    ·
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/BDFD%20Codes">BDFD</a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Discord/Discord-Bots/JavaScript/Akira/Assets/Commands.md">Commands</a>
   </p>
 </p>
 <!-- Project Shields
