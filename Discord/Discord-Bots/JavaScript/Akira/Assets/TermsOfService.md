@@ -20,3 +20,7 @@
 *** I'm using markdown "reference style" links for readability.-->
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
+
+<br>
+
+# Akira Terms of Service
