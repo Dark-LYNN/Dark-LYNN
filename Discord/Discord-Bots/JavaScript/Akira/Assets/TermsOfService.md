@@ -2,9 +2,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/Dark-LYNN/">
-    <img src="Images/Avatar%20-%20400%20x%20400.png" alt="Logo" width="80" height="80">
+    <img src="Images/Avatar%20-%20400%20x%20400.png" alt="Logo" width="110" height="110">
   </a>
-
   <h3 align="center">Akira's TOS</h3>
 
   <p align="center">
