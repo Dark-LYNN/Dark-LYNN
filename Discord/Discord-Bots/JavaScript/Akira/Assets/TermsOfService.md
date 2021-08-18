@@ -11,7 +11,7 @@
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Discord/Discord-Bots/JavaScript/Akira/Assets/GuideLines.md">GuideLines</a>
     ·
-    <a href="https://discord.gg/SBj5WzeVBj/">Discord</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=738057910923296839&permissions=261421919735&redirect_uri=https%3A%2F%2Fdiscord.gg%2FSBj5WzeVBj&response_type=code&scope=bot%20guilds.join/">Invite</a>
     ·
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Discord/Discord-Bots/JavaScript/Akira/Assets/Commands.md">Commands</a>
   </p>
