@@ -51,7 +51,7 @@
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### Connect:
-[![steam](https://cdn.freebiesupply.com/logos/large/2x/steam-1-logo-png-transparent.png)](https://steamcommunity.com/id/dark-lynn/)
+[![steam](https://imgur.com/s0Nejvb)](https://steamcommunity.com/id/dark-lynn/)
 
 
 ### Code languages:
