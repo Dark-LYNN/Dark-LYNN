@@ -51,7 +51,7 @@
 [![Dark-LYNN's github trophy](https://github-profile-trophy.vercel.app/?username=Dark-LYNN&row=1)](https://github.com/Dark-LYNN/Dark-LYNN/)
 
 ### Connect:
-[![steam](https://saythanks.io/static/images/owly.svg)](https://steamcommunity.com/id/dark-lynn/)
+[![steam](https://cdn.discordapp.com/attachments/828247978837671966/890853754453258240/Logooo.png)](https://steamcommunity.com/id/dark-lynn/)
 
 
 ### Code languages:
