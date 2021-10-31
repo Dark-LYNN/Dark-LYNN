@@ -1,0 +1,17 @@
+{
+    "name": "-asdf",
+    "version": "1.1.0",
+    "description": "This is akira",
+    "main": "akira.js",
+    "scripts": {
+      "start": "node akira.js"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "aoi.js": "^4.5.0"
+    }
+  }
