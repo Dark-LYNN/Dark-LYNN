@@ -10,3 +10,10 @@
 
 ## Anonymous / Third-Party Tracking
 ##### [Discord-bot](https://discord-bot.xyz) and its services use [Google Analytics](https://analytics.google.com/analytics/web/) to analyze use of the site. Google Analytics uses cookies and collects usage data. You may view their privacy policy [here](https://www.google.com/intl/en/policies/privacy/) and opt-out with their tool [here](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+## Cookies
+##### [Discord-Bot](https://discord-bot.xyz) and its services uses cookies to store information about users. These cookies store the session identifier for logged in users. This is used for authentication on the website and links you to your [Discord](https://discord.com) data.
+
+## Consent
+##### By using [Discord-Bot](https://discord-bot.xyz) and its services, you consent to our [Privacy Policy](https://discord-bot.xyz/policy) and agree to its [terms](https;//discord-bot.xyz/terms).
+
