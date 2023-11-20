@@ -10,8 +10,6 @@
 </a>
 </p>
 
-![Metrics]()
-
 ### I've little contribution in:
 
 <a href="https://github.com/Dark-LYNN/Dark-LYNN">No contributor yet. <img src="https://img.shields.io/github/stars/Dark-LYNN/Dark-LYNN.svg?style=social&label=Star&maxAge=14400"> 
