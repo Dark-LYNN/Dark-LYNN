@@ -12,7 +12,7 @@
 
 ### I've little contribution in:
 
-<a href="https://github.com/cloudteamdev/frames.cloudteam.me">frames.cloudteam.me <img src="https://img.shields.io/github/stars/cloudteamdev/frames.cloudteam.me.svg?style=social&label=Star&maxAge=14400"> 
+<a href="https://github.com/LynnuxDev/frames">frames.cloudteam.me <img src="https://img.shields.io/github/stars/LynnuxDev/frames.svg?style=social&label=Star&maxAge=14400"> 
 </a>
 
 <h2></h2>
