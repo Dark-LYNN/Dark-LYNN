@@ -74,7 +74,7 @@
 
 | Name                  | Description                     | Source    |
 | ----------------------|---------------------------------|-----------|
-| _[Discord Bot](https://github.com/Dark-LYNN/AkiraBot)_        | Akira is a open-source discord bot that runs on the npm package aoi.js | [/AkiraBot](https://github.com/Dark-LYNN/AkiraBot) |
+| _[Discord Bot](https://github.com/Dark-LYNN/AkiraBot)_        | Akira is a open-source discord bot that runs on the npm package aoi.js | [/AkiraBot](https://github.com/LynnuxDev/AkiraBot) |
 | _[Better Discord Projects](https://github.com/Dark-LYNN/BetterDiscord)_            | Customize your discord using my betterdiscord plugins/themes.             | [/BetterDiscord](https://github.com/Dark-LYNN/BetterDiscord) |
 | _[Portofolio](https://lynnux.xyz)_                          | See my portofolio.   | [/Lynnux.xyz](https://github.com/Dark-LYNN/Lynnux.xyz) |
 | _[Discord Timestamp Generator](https://lynnux.xyz/helper/discord/timestamp)_                | This is a simple tool to generate Discord timestamps.      | [/Lynnux.xyz](https://github.com/Dark-LYNN/Lynnux.xyz/blob/main/helper/discord/timestamp.html)|
