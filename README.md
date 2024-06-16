@@ -1,4 +1,4 @@
-$$\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cloud.lynnux.xyz/index.php/s/Xfbnr24jH9xYjTa/preview');]{x0000}$}$$
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://cloud.lynnux.xyz/index.php/s/Xfbnr24jH9xYjTa/preview');]{x0000}$}$$
 
 <h1 align="center">Hi visitor, I'm Lynnux!</h1>
 <p align="center">
