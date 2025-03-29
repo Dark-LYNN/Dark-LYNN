@@ -87,8 +87,8 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-  <a href="https://github.com/Dark-LYNN/github-stats-card" alt="github-stats-card">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dark-LYNN"/>
+  <a href="https://wakatime.com/@Lynnux" alt="Wakatime Usage">
+    <img src="https://api.lynnux.xyz/cards/wakatime?username=Lynnux&length=5&theme=dark"/>
   </a>
   <a href="https://github.com/Dark-LYNN/github-stats-card" alt="github-stats-card">
   <img src="https://github-readme-stats.vercel.app/api?username=Dark-LYNN&count_private=true&show_icons=true&theme=dracula"/>
