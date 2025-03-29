@@ -90,6 +90,7 @@
   <a href="https://wakatime.com/@Lynnux" alt="Wakatime Usage">
     <img src="https://api.lynnux.xyz/cards/wakatime?username=Lynnux&length=5&theme=dark"/>
   </a>
+   <br/>
   <a href="https://github.com/Dark-LYNN/github-stats-card" alt="github-stats-card">
   <img src="https://github-readme-stats.vercel.app/api?username=Dark-LYNN&count_private=true&show_icons=true&theme=dracula"/>
   </a>
