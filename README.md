@@ -85,7 +85,7 @@
 
 <h4 align="center">All of these are open source!</h4>
 
-<h2 align="center"><u>My Github Stats</u></h2>
+<h2 align="center"><u>My Stats</u></h2>
 <p align="center">
   <a href="https://wakatime.com/@Lynnux" alt="Wakatime Usage">
     <img src="https://api.lynnux.xyz/cards/wakatime?username=Lynnux&length=5&theme=dark"/>
